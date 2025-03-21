@@ -3,7 +3,7 @@ import React from "react";
 // import { WavyBackground } from "../../components/wavy-background";
 import { motion } from "framer-motion";
 import {LampContainer} from "./components/lamp"
-import WavyBackgroundDemo from "./WavyBackground";
+import WavyBackgroundDemo from "./components/WavyBackground";
 
 export default function LampDemo() {
   return (
